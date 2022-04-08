@@ -1,0 +1,19 @@
+.odds{
+    background-color: rgb(250, 166, 166);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2{
+    color: rgb(27, 27, 236);
+    font-size: 36px;
+}
+
+.odds.number3{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: rgb(74, 202, 74);
+    font-size: 24px;
+    font-weight: bold;
+}
